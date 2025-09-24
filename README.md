@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deeper on kubernetes administration, CI/CD and so on
 - 💞️ I’m looking to collaborate on small projects where I can prove myself and learn from other collaborators
 - 📫 How to reach me:
-  - BSKY: @grumpymaark.bsky.social
+  - BSKY: [@grumpymaark.bsky.social](https://bsky.app/profile/grumpymaark.bsky.social)
   - LinkedIn: [Marc Massa Capó](https://www.linkedin.com/in/marc-massa-capo)
 
 
