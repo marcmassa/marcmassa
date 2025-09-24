@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small projects where I can prove myself and learn from other collaborators
 - 📫 How to reach me:
   - BSKY: @grumpymaark.bsky.social
-  - LinkedIn: [Marc Massa Capó](www.linkedin.com/in/marc-massa-capo)
+  - LinkedIn: [Marc Massa Capó](https://www.linkedin.com/in/marc-massa-capo)
 
 
 
